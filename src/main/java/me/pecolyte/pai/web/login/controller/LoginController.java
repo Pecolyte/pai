@@ -12,7 +12,7 @@ public class LoginController {
     @RequestMapping
     @ResponseBody
     public String sayHello(ModelMap model) {
-        return "welcome1";
+        return "welcome2";
     }
  
 }
